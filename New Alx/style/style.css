@@ -1,0 +1,42 @@
+.navbar{
+    background-color: rgb(4, 4, 44);
+  }
+  .headerbgblue{
+    background-color: rgb(0, 0, 99);
+  }
+.bg{
+    background-color: rgb(4, 4, 44); 
+}
+.navbar-brand{
+    background-color: rgb(4, 4, 44);   
+}
+.bga{
+    background-color: rgb(21, 88, 92); 
+  border-color:rgb(21, 88, 92);
+}
+section{
+    background-color: rgb(0, 0, 99);
+    
+  } 
+  .navbar-nav{
+      list-style: none;
+      display: flex;
+      text-decoration: none;
+  }
+  .nav-item{
+      align-items: center;
+      margin-top:20px ;
+  }
+  .light{
+    background-image: url(../image/banner-img-2.png);
+    /* background-position: right; */
+    background-repeat: no-repeat;
+    background-size: 750px;
+    /* padding: 20px 15px; */
+    background-position-x:right ;
+    margin-top:6rem ;
+    
+    
+    
+    
+  }
